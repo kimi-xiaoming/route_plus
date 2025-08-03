@@ -25,6 +25,7 @@ class SlideDrawer<T> extends PageRoute<T> {
     this.barrierColor = Colors.black12,
   });
 
+
   final double widthFactor;
   final DrawerPosition drawerPosition;
   final WidgetBuilder builder;
