@@ -26,6 +26,7 @@ class SlideDrawer<T> extends PageRoute<T> {
   });
 
 
+
   final double widthFactor;
   final DrawerPosition drawerPosition;
   final WidgetBuilder builder;
